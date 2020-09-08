@@ -1,0 +1,15 @@
+{
+  "name": "Strahd's Slaad Salad",
+  "short_name": "Strahd's Slaad Salad",
+  "start_url": "/MocktardJackson.github.io.git/",
+  "scope": "/MocktardJackson.github.io.git/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/MocktardJackson.github.io.git/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
