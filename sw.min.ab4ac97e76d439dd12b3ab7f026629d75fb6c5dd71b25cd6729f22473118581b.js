@@ -1,0 +1,1 @@
+if(navigator.serviceWorker){navigator.serviceWorker.register("/MocktardJackson.github.io/sw.js",{scope:"/MocktardJackson.github.io/"});}
