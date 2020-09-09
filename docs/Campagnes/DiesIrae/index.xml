@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Strahd&#39;s Slaad Salad</title>
-    <link>MocktardJackson.github.io/docs/Campagnes/DiesIrae/</link>
+    <link>https://mocktardjackson.github.io/docs/Campagnes/DiesIrae/</link>
     <description>Recent content on Strahd&#39;s Slaad Salad</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="MocktardJackson.github.io/docs/Campagnes/DiesIrae/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mocktardjackson.github.io/docs/Campagnes/DiesIrae/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
